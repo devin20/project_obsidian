@@ -1,2 +1,2 @@
 # project_obsidian
-Repository for an currently in the design stage
+Repository for an app currently in the design stage
