@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.example.hello;
+package com.devinnavarro.obsidian;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
